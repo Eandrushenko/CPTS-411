@@ -1,0 +1,2 @@
+cc source.c main.c
+./a.out

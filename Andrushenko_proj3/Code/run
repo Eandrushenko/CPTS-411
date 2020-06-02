@@ -1,0 +1,3 @@
+mpicc main.c
+sbatch -N2 sub.sh
+squeue 
